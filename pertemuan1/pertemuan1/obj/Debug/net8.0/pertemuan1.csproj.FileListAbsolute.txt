@@ -1,0 +1,14 @@
+F:\File\ramon\AMIKOM\pemprograman\coding\pertemuan1\pertemuan1\bin\Debug\net8.0\pertemuan1.exe
+F:\File\ramon\AMIKOM\pemprograman\coding\pertemuan1\pertemuan1\bin\Debug\net8.0\pertemuan1.deps.json
+F:\File\ramon\AMIKOM\pemprograman\coding\pertemuan1\pertemuan1\bin\Debug\net8.0\pertemuan1.runtimeconfig.json
+F:\File\ramon\AMIKOM\pemprograman\coding\pertemuan1\pertemuan1\bin\Debug\net8.0\pertemuan1.dll
+F:\File\ramon\AMIKOM\pemprograman\coding\pertemuan1\pertemuan1\bin\Debug\net8.0\pertemuan1.pdb
+F:\File\ramon\AMIKOM\pemprograman\coding\pertemuan1\pertemuan1\obj\Debug\net8.0\pertemuan1.GeneratedMSBuildEditorConfig.editorconfig
+F:\File\ramon\AMIKOM\pemprograman\coding\pertemuan1\pertemuan1\obj\Debug\net8.0\pertemuan1.AssemblyInfoInputs.cache
+F:\File\ramon\AMIKOM\pemprograman\coding\pertemuan1\pertemuan1\obj\Debug\net8.0\pertemuan1.AssemblyInfo.cs
+F:\File\ramon\AMIKOM\pemprograman\coding\pertemuan1\pertemuan1\obj\Debug\net8.0\pertemuan1.csproj.CoreCompileInputs.cache
+F:\File\ramon\AMIKOM\pemprograman\coding\pertemuan1\pertemuan1\obj\Debug\net8.0\pertemuan1.dll
+F:\File\ramon\AMIKOM\pemprograman\coding\pertemuan1\pertemuan1\obj\Debug\net8.0\refint\pertemuan1.dll
+F:\File\ramon\AMIKOM\pemprograman\coding\pertemuan1\pertemuan1\obj\Debug\net8.0\pertemuan1.pdb
+F:\File\ramon\AMIKOM\pemprograman\coding\pertemuan1\pertemuan1\obj\Debug\net8.0\pertemuan1.genruntimeconfig.cache
+F:\File\ramon\AMIKOM\pemprograman\coding\pertemuan1\pertemuan1\obj\Debug\net8.0\ref\pertemuan1.dll
